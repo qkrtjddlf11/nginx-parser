@@ -16,7 +16,6 @@ var (
 	totalCount = 0
 )
 
-// Kafka Producer configurations
 var (
 	filePath = flag.String(
 		"path",
@@ -103,7 +102,7 @@ func main() {
 	startTime := time.Now()
 	defer perfTime(startTime)()
 
-	file, err := os.Open("./access.log")
+	file, err := os.Open(*filePath)
 	if err != nil {
 		log.Fatal(err)
 	}
