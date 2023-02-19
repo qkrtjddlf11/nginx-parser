@@ -1,0 +1,6 @@
+172.30.1.50 - - [19/Feb/2023:17:42:30 +0900] "GET / HTTP/1.1" 200 4833 "-" "curl/7.81.0" "-"
+172.30.1.50 - - [19/Feb/2023:17:42:46 +0900] "GET / HTTP/1.1" 200 4833 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" "-"
+172.30.1.50 - - [19/Feb/2023:17:42:46 +0900] "GET /img/centos-logo.png HTTP/1.1" 200 3030 "http://172.30.1.150/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" "-"
+172.30.1.50 - - [19/Feb/2023:17:42:46 +0900] "GET /img/html-background.png HTTP/1.1" 200 1801 "http://172.30.1.150/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" "-"
+172.30.1.50 - - [19/Feb/2023:17:42:46 +0900] "GET /img/header-background.png HTTP/1.1" 200 82896 "http://172.30.1.150/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" "-"
+172.30.1.50 - - [19/Feb/2023:17:42:46 +0900] "GET /favicon.ico HTTP/1.1" 404 3650 "http://172.30.1.150/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" "-"
